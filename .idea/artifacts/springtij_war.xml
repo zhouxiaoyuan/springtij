@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springtij:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="springtij.war">
+      <element id="artifact" artifact-name="springtij:war exploded" />
+    </root>
+  </artifact>
+</component>
